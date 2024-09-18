@@ -3,6 +3,8 @@
 .DS_Store
 .env
 
+./data/external/indian_news.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
